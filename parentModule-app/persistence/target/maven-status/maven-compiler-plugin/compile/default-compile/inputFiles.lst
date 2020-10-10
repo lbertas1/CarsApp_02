@@ -1,0 +1,11 @@
+C:\IntelijProjects\02_MultimoduleCars\parentModule-app\persistence\src\main\java\model\Engine.java
+C:\IntelijProjects\02_MultimoduleCars\parentModule-app\persistence\src\main\java\model\enums\CarBodyType.java
+C:\IntelijProjects\02_MultimoduleCars\parentModule-app\persistence\src\main\java\converters\JsonCarsConverter.java
+C:\IntelijProjects\02_MultimoduleCars\parentModule-app\persistence\src\main\java\model\enums\TyreType.java
+C:\IntelijProjects\02_MultimoduleCars\parentModule-app\persistence\src\main\java\model\Car.java
+C:\IntelijProjects\02_MultimoduleCars\parentModule-app\persistence\src\main\java\converters\JsonConverter.java
+C:\IntelijProjects\02_MultimoduleCars\parentModule-app\persistence\src\main\java\model\CarBody.java
+C:\IntelijProjects\02_MultimoduleCars\parentModule-app\persistence\src\main\java\exception\JsonConverterException.java
+C:\IntelijProjects\02_MultimoduleCars\parentModule-app\persistence\src\main\java\model\enums\CarBodyColor.java
+C:\IntelijProjects\02_MultimoduleCars\parentModule-app\persistence\src\main\java\model\enums\Type.java
+C:\IntelijProjects\02_MultimoduleCars\parentModule-app\persistence\src\main\java\model\Wheel.java

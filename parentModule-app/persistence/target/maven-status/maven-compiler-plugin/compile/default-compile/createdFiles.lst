@@ -1,0 +1,15 @@
+model\Wheel.class
+model\enums\CarBodyColor.class
+model\Engine.class
+converters\JsonCarsConverter.class
+model\Car.class
+model\enums\TyreType.class
+model\enums\Type.class
+model\Car$CarBuilder.class
+exception\JsonConverterException.class
+model\Wheel$WheelBuilder.class
+model\enums\CarBodyType.class
+converters\JsonConverter.class
+model\Engine$EngineBuilder.class
+model\CarBody$CarBodyBuilder.class
+model\CarBody.class

@@ -1,0 +1,505 @@
+[
+  {
+    "model": "AUDI",
+    "price": 120,
+    "mileage": 12000,
+    "engine": {
+      "type": "DIESEL",
+      "power": 210.0
+    },
+    "carBody": {
+      "color": "BLACK",
+      "type": "HATCHBACK",
+      "components": [
+        "ABS",
+        "AIR CONDITIONING"
+      ]
+    },
+    "wheel": {
+      "type": "SUMMER",
+      "model": "PIRELLI",
+      "size": 18
+    }
+  },
+  {
+    "model": "OPEL",
+    "price": 80,
+    "mileage": 1200,
+    "engine": {
+      "type": "LPG",
+      "power": 110.0
+    },
+    "carBody": {
+      "color": "SILVER",
+      "type": "COMBI",
+      "components": [
+        "ABS",
+        "AIR CONDITIONING",
+        "AIRBAGS"
+      ]
+    },
+    "wheel": {
+      "type": "WINTER",
+      "model": "CONTINENTAL",
+      "size": 16
+    }
+  },
+  {
+    "model": "FORD",
+    "price": 100,
+    "mileage": 13000,
+    "engine": {
+      "type": "GASOLINE",
+      "power": 140.0
+    },
+    "carBody": {
+      "color": "RED",
+      "type": "SEDAN",
+      "components": [
+        "ABS",
+        "AIR CONDITIONING",
+        "BLUETOOTH"
+      ]
+    },
+    "wheel": {
+      "type": "WINTER",
+      "model": "DUNLOP",
+      "size": 16
+    }
+  },
+  {
+    "model": "BMW",
+    "price": 150,
+    "mileage": 15000,
+    "engine": {
+      "type": "DIESEL",
+      "power": 180.0
+    },
+    "carBody": {
+      "color": "WHITE",
+      "type": "SEDAN",
+      "components": [
+        "ABS",
+        "BLUETOOTH"
+      ]
+    },
+    "wheel": {
+      "type": "SUMMER",
+      "model": "PIRELLI",
+      "size": 18
+    }
+  },
+  {
+    "model": "MERCEDES",
+    "price": 140,
+    "mileage": 122000,
+    "engine": {
+      "type": "DIESEL",
+      "power": 200.0
+    },
+    "carBody": {
+      "color": "GREEN",
+      "type": "HATCHBACK",
+      "components": [
+        "ABS",
+        "AIR CONDITIONING"
+      ]
+    },
+    "wheel": {
+      "type": "SUMMER",
+      "model": "PIRELLI",
+      "size": 20
+    }
+  },
+  {
+    "model": "TOYOTA",
+    "price": 170,
+    "mileage": 22000,
+    "engine": {
+      "type": "GASOLINE",
+      "power": 180.0
+    },
+    "carBody": {
+      "color": "RED",
+      "type": "SEDAN",
+      "components": [
+        "ABS",
+        "AIR CONDITIONING",
+        "AIRBAGS"
+      ]
+    },
+    "wheel": {
+      "type": "WINTER",
+      "model": "PIRELLI",
+      "size": 16
+    }
+  },
+  {
+    "model": "MAZDA",
+    "price": 110,
+    "mileage": 9000,
+    "engine": {
+      "type": "LPG",
+      "power": 160.0
+    },
+    "carBody": {
+      "color": "BLUE",
+      "type": "HATCHBACK",
+      "components": [
+        "ABS",
+        "AIR CONDITIONING",
+        "NAVIGATION"
+      ]
+    },
+    "wheel": {
+      "type": "SUMMER",
+      "model": "PIRELLI",
+      "size": 20
+    }
+  },
+  {
+    "model": "VOLVO",
+    "price": 130,
+    "mileage": 18000,
+    "engine": {
+      "type": "GASOLINE",
+      "power": 150.0
+    },
+    "carBody": {
+      "color": "SILVER",
+      "type": "HATCHBACK",
+      "components": [
+        "ABS",
+        "AIR CONDITIONING",
+        "BLUETOOTH"
+      ]
+    },
+    "wheel": {
+      "type": "SUMMER",
+      "model": "CONTINENTAL",
+      "size": 20
+    }
+  },
+  {
+    "model": "FIAT",
+    "price": 60,
+    "mileage": 25000,
+    "engine": {
+      "type": "LPG",
+      "power": 80.0
+    },
+    "carBody": {
+      "color": "GREEN",
+      "type": "HATCHBACK",
+      "components": [
+        "ABS"
+      ]
+    },
+    "wheel": {
+      "type": "WINTER",
+      "model": "DUNLOP",
+      "size": 14
+    }
+  },
+  {
+    "model": "CITROEN",
+    "price": 60,
+    "mileage": 16000,
+    "engine": {
+      "type": "LPG",
+      "power": 60.0
+    },
+    "carBody": {
+      "color": "RED",
+      "type": "HATCHBACK",
+      "components": [
+        "AIR CONDITIONING"
+      ]
+    },
+    "wheel": {
+      "type": "WINTER",
+      "model": "PIRELLI",
+      "size": 14
+    }
+  },
+  {
+    "model": "PEUGEOT",
+    "price": 100,
+    "mileage": 32000,
+    "engine": {
+      "type": "GASOLINE",
+      "power": 90.0
+    },
+    "carBody": {
+      "color": "GREEN",
+      "type": "HATCHBACK",
+      "components": [
+        "NAVIGATION",
+        "AIR CONDITIONING"
+      ]
+    },
+    "wheel": {
+      "type": "WINTER",
+      "model": "DUNLOP",
+      "size": 16
+    }
+  },
+  {
+    "model": "FERRARI",
+    "price": 260,
+    "mileage": 22000,
+    "engine": {
+      "type": "GASOLINE",
+      "power": 260.0
+    },
+    "carBody": {
+      "color": "SILVER",
+      "type": "SEDAN",
+      "components": [
+        "ABS",
+        "AIR CONDITIONING",
+        "NAVIGATION",
+        "BLUETOOTH"
+      ]
+    },
+    "wheel": {
+      "type": "SUMMER",
+      "model": "PIRELLI",
+      "size": 20
+    }
+  },
+  {
+    "model": "PORSCHE",
+    "price": 240,
+    "mileage": 42000,
+    "engine": {
+      "type": "DIESEL",
+      "power": 230.0
+    },
+    "carBody": {
+      "color": "RED",
+      "type": "COMBI",
+      "components": [
+        "ABS",
+        "AIR CONDITIONING",
+        "NAVIGATION"
+      ]
+    },
+    "wheel": {
+      "type": "WINTER",
+      "model": "DUNLOP",
+      "size": 18
+    }
+  },
+  {
+    "model": "OPEL",
+    "price": 240,
+    "mileage": 42000,
+    "engine": {
+      "type": "DIESEL",
+      "power": 230.0
+    },
+    "carBody": {
+      "color": "RED",
+      "type": "COMBI",
+      "components": [
+        "ABS",
+        "AIR CONDITIONING",
+        "NAVIGATION"
+      ]
+    },
+    "wheel": {
+      "type": "WINTER",
+      "model": "DUNLOP",
+      "size": 18
+    }
+  },
+  {
+    "model": "VOLVO",
+    "price": 240,
+    "mileage": 42000,
+    "engine": {
+      "type": "DIESEL",
+      "power": 230.0
+    },
+    "carBody": {
+      "color": "RED",
+      "type": "COMBI",
+      "components": [
+        "ABS",
+        "AIR CONDITIONING",
+        "NAVIGATION"
+      ]
+    },
+    "wheel": {
+      "type": "WINTER",
+      "model": "DUNLOP",
+      "size": 18
+    }
+  },
+  {
+    "model": "MERCEDES",
+    "price": 240,
+    "mileage": 42000,
+    "engine": {
+      "type": "DIESEL",
+      "power": 230.0
+    },
+    "carBody": {
+      "color": "RED",
+      "type": "COMBI",
+      "components": [
+        "ABS",
+        "AIR CONDITIONING",
+        "NAVIGATION"
+      ]
+    },
+    "wheel": {
+      "type": "WINTER",
+      "model": "DUNLOP",
+      "size": 18
+    }
+  },
+  {
+    "model": "MITSUBISHI",
+    "price": 180,
+    "mileage": 62000,
+    "engine": {
+      "type": "LPG",
+      "power": 200.0
+    },
+    "carBody": {
+      "color": "BLUE",
+      "type": "COMBI",
+      "components": [
+        "ABS",
+        "AIR CONDITIONING",
+        "NAVIGATION",
+        "BLUETOOTH"
+      ]
+    },
+    "wheel": {
+      "type": "WINTER",
+      "model": "CONTINENTAL",
+      "size": 18
+    }
+  },
+  {
+    "model": "SUBARU",
+    "price": 260,
+    "mileage": 2000,
+    "engine": {
+      "type": "GASOLINE",
+      "power": 250.0
+    },
+    "carBody": {
+      "color": "BLUE",
+      "type": "SEDAN",
+      "components": [
+        "ABS",
+        "AIR CONDITIONING",
+        "NAVIGATION",
+        "MP3",
+        "BLUETOOTH"
+      ]
+    },
+    "wheel": {
+      "type": "SUMMER",
+      "model": "PIRELLI",
+      "size": 20
+    }
+  },
+  {
+    "model": "FIAT",
+    "price": 240,
+    "mileage": 42000,
+    "engine": {
+      "type": "DIESEL",
+      "power": 230.0
+    },
+    "carBody": {
+      "color": "RED",
+      "type": "COMBI",
+      "components": [
+        "ABS",
+        "AIR CONDITIONING",
+        "NAVIGATION"
+      ]
+    },
+    "wheel": {
+      "type": "WINTER",
+      "model": "DUNLOP",
+      "size": 18
+    }
+  },
+  {
+    "model": "BUGATTI",
+    "price": 240,
+    "mileage": 42000,
+    "engine": {
+      "type": "DIESEL",
+      "power": 230.0
+    },
+    "carBody": {
+      "color": "RED",
+      "type": "SEDAN",
+      "components": [
+        "ABS",
+        "AIR CONDITIONING",
+        "NAVIGATION"
+      ]
+    },
+    "wheel": {
+      "type": "WINTER",
+      "model": "DUNLOP",
+      "size": 18
+    }
+  },
+  {
+    "model": "TOYOTA",
+    "price": 240,
+    "mileage": 42000,
+    "engine": {
+      "type": "GASOLINE",
+      "power": 230.0
+    },
+    "carBody": {
+      "color": "RED",
+      "type": "COMBI",
+      "components": [
+        "ABS",
+        "AIR CONDITIONING",
+        "NAVIGATION"
+      ]
+    },
+    "wheel": {
+      "type": "WINTER",
+      "model": "DUNLOP",
+      "size": 18
+    }
+  },
+  {
+    "model": "PORSCHE",
+    "price": 240,
+    "mileage": 42000,
+    "engine": {
+      "type": "DIESEL",
+      "power": 230.0
+    },
+    "carBody": {
+      "color": "RED",
+      "type": "COMBI",
+      "components": [
+        "ABS",
+        "AIR CONDITIONING",
+        "NAVIGATION"
+      ]
+    },
+    "wheel": {
+      "type": "SUMMER",
+      "model": "DUNLOP",
+      "size": 18
+    }
+  }
+]
+
