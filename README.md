@@ -2,7 +2,7 @@ The application presented here is a more extensive example of the previous appli
 where I decided to extend the number of base objects and modify the logic presented in the service module.
 
 Application characteristics
-- multi-module application: persistence, service, ui
+- multi-module application: persistence, service, ui, written in java
 - ui module is based on the spark framework for sending http requests.
 - the service module has been tested using JUnit 5
 - application in service modules contains logic aimed at creating various variants of lists of car type objects and its properties.
